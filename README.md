@@ -6,8 +6,8 @@
 
  1. *Значения, типы и операторы*
  2. Структура программы
-	 1. (Построение треугольника в цикле)[https://github.com/GeoGeorgeous/eloquentJS/tree/main/1.%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D1%86%D0%B8%D0%BA%D0%BB%D0%B5]
-	 2. FizzBuzz
+	 1. [Построение треугольника в цикле](https://github.com/GeoGeorgeous/eloquentJS/tree/main/1.%20%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D1%86%D0%B8%D0%BA%D0%BB%D0%B5)
+	 2. [FizzBuzz](https://github.com/GeoGeorgeous/eloquentJS/tree/main/2.%20FizzBuzz)
 	 3. Шахматная доска
  3. Функции
 	 1. Минимум
