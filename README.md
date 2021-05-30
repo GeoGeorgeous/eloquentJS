@@ -10,8 +10,8 @@
 	 2. [FizzBuzz](https://github.com/GeoGeorgeous/eloquentJS/tree/main/2.%20FizzBuzz)
 	 3. [Шахматная доска](https://github.com/GeoGeorgeous/eloquentJS/tree/main/3.%20%D0%A8%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B0)
  3. Функции
-	 1. Минимум
-	 2. Рекурсия
+	 1. [Минимум](https://github.com/GeoGeorgeous/eloquentJS/tree/main/4.%20%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC)
+	 2. [Рекурсия](https://github.com/GeoGeorgeous/eloquentJS/tree/main/5.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F)
 	 3. Подсчёт букв
  4. Структуры данных: объекты и массивы
 	 1. Сумма диапазона
