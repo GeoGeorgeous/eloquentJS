@@ -12,7 +12,7 @@
  3. Функции
 	 1. [Минимум](https://github.com/GeoGeorgeous/eloquentJS/tree/main/4.%20%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC)
 	 2. [Рекурсия](https://github.com/GeoGeorgeous/eloquentJS/tree/main/5.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F)
-	 3. Подсчёт букв
+	 3. [Подсчёт букв](https://github.com/GeoGeorgeous/eloquentJS/tree/main/6.%20%D0%9F%D0%BE%D0%B4%D1%81%D1%87%D0%B5%D1%82%20%D0%B1%D1%83%D0%BA%D0%B2)
  4. Структуры данных: объекты и массивы
 	 1. Сумма диапазона
 	 2. Массив в обратном порядке
